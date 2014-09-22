@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1386639404 source:c:\users\pjyxv_000\documents\programming projects\dateandtime\dateandtimemembers.cpp
+	<iostream>
+	<iomanip>
+	"DateAndTime.h"
+
+1386638595 c:\users\pjyxv_000\documents\programming projects\dateandtime\dateandtime.h
+	"Date.h"
+	"Time.h"
+
+1386637596 source:c:\users\pjyxv_000\documents\programming projects\dateandtime\dateandtimemain.cpp
+	<iostream>
+	<iomanip>
+	"DateAndTime.h"
+
+1386638596 c:\users\pjyxv_000\documents\programming projects\dateandtime\date.h
+
+1386639119 c:\users\pjyxv_000\documents\programming projects\dateandtime\time.h
+
+1386639436 source:c:\users\pjyxv_000\documents\programming projects\dateandtime\datemembers.cpp
+	<iostream>
+	"Date.h"
+
+1386639205 source:c:\users\pjyxv_000\documents\programming projects\dateandtime\timemembers.cpp
+	<iostream>
+	<iomanip>
+	"Time.h"
+
